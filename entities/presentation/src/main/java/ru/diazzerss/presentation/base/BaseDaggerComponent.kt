@@ -1,0 +1,3 @@
+package ru.diazzerss.presentation.base
+
+interface BaseDaggerComponent
